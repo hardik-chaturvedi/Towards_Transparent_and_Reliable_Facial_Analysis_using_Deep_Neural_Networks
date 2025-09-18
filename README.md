@@ -1,1 +1,4 @@
-# Towards_Transparent_and_Reliable_Facial_Analysis_using_Deep_Neural_Networks
+# Towards Transparent and Reliable Facial Analysis using Deep Neural Networks
+
+## Approach 1: Transfer Learning
+## Approach 2: Custom CNN
