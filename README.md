@@ -2,3 +2,4 @@
 
 ## Approach 1: Transfer Learning
 ## Approach 2: Custom CNN
+## Approach 3: Vision-Transformation
